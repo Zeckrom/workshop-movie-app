@@ -1,0 +1,17 @@
+.movie-card{
+    border: 1px solid black;
+    width: 200px;
+    margin: 0 25px;
+    .rating{
+        text-align: right;
+        .gold{
+            color: rgb(240,230,140);
+        }
+    }
+    .image-container{
+        width: 100%;
+        img{
+            width: 100%
+        }
+    }
+}
